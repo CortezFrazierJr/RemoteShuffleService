@@ -10,7 +10,7 @@
     <version>0.0.9</version>
     <name>remote-shuffle-service</name>
     <description>Remote shuffle service and client.</description>
-    <url></url>
+    <url/>
 
     <licenses>
         <license>
@@ -26,7 +26,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <hadoop.version>2.7.1</hadoop.version>
         <spark.version>2.4.3</spark.version>
-        <scala.version>2.11.8</scala.version>
+        <scala.version>2.13.8</scala.version>
         <scala.compat.version>2.11</scala.compat.version>
         <jacoco.version>0.8.2</jacoco.version>
         <guava.version>15.0</guava.version>
