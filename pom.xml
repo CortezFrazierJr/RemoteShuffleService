@@ -10,7 +10,7 @@
     <version>0.0.9</version>
     <name>remote-shuffle-service</name>
     <description>Remote shuffle service and client.</description>
-    <url></url>
+    <url/>
 
     <licenses>
         <license>
@@ -91,7 +91,7 @@
         <dependency>
             <groupId>com.uber.m3</groupId>
             <artifactId>tally-core</artifactId>
-            <version>0.2.1</version>
+            <version>0.11.1</version>
             <scope>compile</scope>
             <exclusions>
                 <exclusion>
